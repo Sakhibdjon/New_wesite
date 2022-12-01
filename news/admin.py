@@ -12,7 +12,7 @@ class AdminPosition(admin.ModelAdmin):
     list_display= ['id','title']
     list_display_links=['title']
 
-
+salom men keldim
 
 
 @admin.register(New)
